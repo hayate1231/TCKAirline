@@ -1,0 +1,6 @@
+{
+  "name": "チクビ飛行機からの脱出",
+  "description": "青い空を駆ける古代遺物「フライジェット・チ・クビ」の内部を探索し、4000年の記憶と謎を解き明かして脱出する3D脱出アドベンチャーゲーム。",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
